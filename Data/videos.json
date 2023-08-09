@@ -1,0 +1,52 @@
+[
+  {
+    "id" : "1",
+    "name" : "Labrador Retriever",
+    "headline" : "Labrador is a Family Dog"
+  },
+  {
+    "id" : "2",
+    "name" : "Bull Dog",
+    "headline" : "Bull Dog docile, loyal companions adapt well to town or country. You can't mistake a Bulldog for any other breed."
+  },
+  {
+    "id" : "3",
+    "name" : "German Shepard",
+    "headline" : "German Shepard loyalty, courage, confidence, ability to learn, and willingness to protect their people is like no other breed."
+  },
+  {
+    "id" : "4",
+    "name" : "Golden Retriever",
+    "headline" : "Golden Retrievers come in three officially recognized colors"
+  },
+  {
+    "id" : "5",
+    "name" : "Rottweiler",
+    "headline" : "A cow hippo and her calf together in the water"
+  },
+  {
+    "id" : "6",
+    "name" : "Pug",
+    "headline" : "Pugs are natural cuddlers.."
+  },
+  {
+    "id" : "7",
+    "name" : "St. Bernard",
+    "headline" : "They are Switzerland's national dog. The name Saint Bernard – or St Bernard – was not adopted until 1888.."
+  },
+  {
+    "id" : "8",
+    "name" : "Beagle",
+    "headline" : "Beagle an excellent hunting dog and loyal companion...."
+  },
+  {
+    "id" : "9",
+    "name" : "Biggest Giant Dog",
+    "headline" : "Biggest giant is a very dangerous dog..."
+  },
+  {
+    "id" : "10",
+    "name" : "Logotto Romagnolo",
+    "headline" : "The Lagotto Romagnolo is a world-renowned truffle hunter."
+  }
+]
