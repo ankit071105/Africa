@@ -1,0 +1,51 @@
+[
+  {
+    "id" : "serengeti",
+    "name" : "Serengeti National Park",
+    "image" : "lion-4",
+    "latitude" : 23.717938,
+    "longitude" : 84.107225
+  },
+  {
+    "id" : "zebra",
+    "name" : "zebra",
+    "image" : "zebra",
+    "latitude" : 21.967781,
+    "longitude" : 86.412907
+  },
+  {
+    "id" : "chobe",
+    "name" : "Chobe National Park",
+    "image" : "rhino",
+    "latitude" : 22.866553,
+    "longitude" : 86.236719
+  },
+  {
+    "id" : "kidepo",
+    "name" : "Kidepo Valley National Park",
+    "image" : "elephant",
+    "latitude" : 26.803705,
+    "longitude" : 78.454349
+  },
+  {
+    "id" : "etosha",
+    "name" : "Etosha National Park",
+    "image" : "cheetah",
+    "latitude" : 25.556397,
+    "longitude" : 77.830309
+  },
+  {
+    "id" : "solonga",
+    "name" : "Solonga National Park",
+    "image" : "giraffe",
+    "latitude" : 28.398831,
+    "longitude" : 80.681137
+  },
+  {
+    "id" : "buffalo",
+    "name" : "Solonga National Park",
+    "image" : "buffalo",
+    "latitude" : 26.619684,
+    "longitude" : 80.917247
+  }
+]
